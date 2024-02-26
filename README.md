@@ -4,6 +4,7 @@
 ## [0]. Volatility
 
 - https://www.varonis.com/blog/how-to-use-volatility
+- https://ctf101.org/forensics/what-is-memory-forensics/
 
 - https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
 - Writeup demo tools
